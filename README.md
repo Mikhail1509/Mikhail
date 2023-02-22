@@ -26,7 +26,7 @@
 
 ### Tools:
 <p align="left">
-  [<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Mikhail1509/Mikhail/main/icons/git.svg" alt="git" width="40" height="40" /></a>]
-[<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Mikhail1509/Mikhail/main/icons/VS-code.svg" alt="git" width="40" height="40" /></a>]
-[<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Mikhail1509/Mikhail/main/icons/figma.svg" alt="figma" width="40" height="40" /></a>]
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Mikhail1509/Mikhail/main/icons/git.svg" alt="git" width="40" height="40" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Mikhail1509/Mikhail/main/icons/VS-code.svg" alt="git" width="40" height="40" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Mikhail1509/Mikhail/main/icons/figma.svg" alt="figma" width="30" height="40" /></a>
 </p>
